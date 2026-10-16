@@ -1,0 +1,8 @@
+{
+  "name": "Hashtnaghar Crafts",
+  "description": "Authentic handcrafted heritage goods from Charsadda Hashtnaghar with seamless WhatsApp ordering, business contact management, and secure administrator controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

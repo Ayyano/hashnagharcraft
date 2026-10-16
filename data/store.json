@@ -1,0 +1,854 @@
+{
+  "settings": {
+    "brandName": "Hashtnaghar Crafts",
+    "businessPhone": "03709956956",
+    "businessEmail": "hashtnagarcrafts@gmail.com",
+    "whatsappNumber": "03709956956",
+    "countryCode": "+92",
+    "whatsappInternational": "923709956956",
+    "address": "Historic Craft Bazaar, Charsadda, Khyber Pakhtunkhwa",
+    "city": "Charsadda",
+    "region": "Khyber Pakhtunkhwa",
+    "country": "Pakistan",
+    "workingHours": "Monday – Saturday: 9:00 AM – 8:00 PM PKT",
+    "supportNote": "Direct master artisan support via WhatsApp and phone.",
+    "socialInstagram": "https://instagram.com/hashtnagharcrafts",
+    "socialFacebook": "https://facebook.com/hashtnagharcrafts",
+    "currency": "PKR",
+    "timezone": "Asia/Karachi",
+    "returnPolicy": "7-day inspection guarantee for unworn items and exchange for custom fits."
+  },
+  "admin": {
+    "email": "hashtnagarcrafts@gmail.com",
+    "passwordHash": "6e9b92206dad9e5d0cd396d35658181081f5941dff0a2e9d760cb8ac26b590e9a7d7fdcf3af3934765e5a92467c7ea9d0100e37697d9761f513277def4066ffa",
+    "passwordSalt": "825dfb0290fecdfb68881441dedbab82",
+    "isInitialized": true,
+    "lastLogin": "2026-10-16T04:35:29.432Z",
+    "updatedAt": "2026-10-16T04:32:46.675Z"
+  },
+  "emailService": {
+    "configured": false,
+    "provider": "smtp",
+    "smtpHost": "",
+    "smtpPort": 587,
+    "smtpUser": "",
+    "smtpPass": "",
+    "fromEmail": "hashtnagarcrafts@gmail.com",
+    "lastTestedAt": null,
+    "testStatus": "unconfigured",
+    "testMessage": "Email service is currently unconfigured. Customer inquiries are securely logged to the admin database."
+  },
+  "websiteContent": {
+    "header": {
+      "websiteName": "Hashtnaghar Crafts",
+      "announcementText": "🎉 Master Artisan Exhibition: Free Shipping Nationwide!",
+      "showAnnouncement": true,
+      "contactPhone": "03709956956",
+      "contactEmail": "hashtnagarcrafts@gmail.com",
+      "promoTagline": "Generational Craftsmanship"
+    },
+    "hero": {
+      "heading": "Gandharan Legacy & Living Craftsmanship",
+      "subtitle": "Charsadda Guild",
+      "description": "Handcrafted leather chappals and handloom textiles.",
+      "heroImageUrl": "/uploads/hero_hashtnaghar_crafts_1792123449961.jpg",
+      "primaryButtonText": "Order via WhatsApp (+92)",
+      "primaryButtonLink": "#products",
+      "secondaryButtonText": "Explore Collection",
+      "secondaryButtonLink": "#products",
+      "textAlignment": "left",
+      "imagePosition": "right",
+      "isVisible": true
+    },
+    "sections": [],
+    "footer": {
+      "aboutText": "Dedicated to preserving the indigenous heritage of Hashtnaghar (Charsadda). Handcrafted leather chappals, traditional handloom khaddar, and historic ceramics direct from generational master craftspeople.",
+      "copyrightText": "Hashtnaghar Crafts. Handcrafted with pride in Charsadda, Khyber Pakhtunkhwa, Pakistan.",
+      "showNewsletter": true,
+      "footerDescription": "Charsadda heritage craft",
+      "showArtisanBadge": true
+    }
+  },
+  "products": [
+    {
+      "id": "prod_1",
+      "title": "Authentic Charsadda Double-Sole Leather Chappal",
+      "slogan": "Master cobbler stitched with recycled aircraft tire sole",
+      "shortDescription": "Masterfully hand-stitched from full-grain buff calfskin leather with traditional tire sole for lifelong resilience.",
+      "fullDescription": "The crown jewel of Charsadda footwear. Known locally as the Zalmi or Kaptaan style chappal, hand-cut from thick buffalo leather, shaped on seasoned wooden lasts, and stitched with bonded industrial thread. Features a zero-slip recycled tire tread outsole.",
+      "category": "Peshawari Chappals",
+      "subcategory": "Double Sole",
+      "price": 6500,
+      "originalPrice": 7500,
+      "sku": "HC-CHP-001",
+      "stock": 17,
+      "lowStockThreshold": 5,
+      "sizes": [
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "colors": [
+        "Cognac Brown",
+        "Dark Mustard",
+        "Jet Black"
+      ],
+      "materials": "100% Full-Grain Buffalo Leather, Durable Tire Sole",
+      "tags": [
+        "chappal",
+        "charsadda",
+        "leather",
+        "peshawari",
+        "footwear"
+      ],
+      "status": "published",
+      "isFeatured": true,
+      "isNewArrival": false,
+      "isBestSeller": true,
+      "isOnSale": true,
+      "seoTitle": "Charsadda Double Sole Chappal | Hashtnaghar Crafts",
+      "seoDescription": "Buy authentic handcrafted Charsadda double sole leather chappal in Pakistan with free delivery and WhatsApp ordering.",
+      "images": [
+        {
+          "url": "/uploads/product_charsadda_chappal_1792123450304.jpg",
+          "alt": "Authentic Charsadda leather chappal",
+          "isPrimary": true
+        }
+      ],
+      "createdAt": "2026-09-01T04:31:27.576Z",
+      "updatedAt": "2026-10-16T04:32:27.290Z"
+    },
+    {
+      "id": "prod_2",
+      "title": "Hashtnaghar Handloom Khaddar & Wool Shawl Set",
+      "slogan": "Woven on heritage pit-looms with organic handspun yarns",
+      "shortDescription": "Woven on heritage wooden handlooms using organic spun cotton warp with unbleached fine mountain sheep wool weft.",
+      "fullDescription": "A winter masterpiece from the legendary weavers of Hashtnaghar. The khaddar features heavy textured organic handspun cotton that breathes in mild weather and insulates against biting frost. Accompanied by a raw wool fringe shawl.",
+      "category": "Fabrics and Textiles",
+      "subcategory": "Khaddar Suits",
+      "price": 8200,
+      "originalPrice": 9500,
+      "sku": "HC-KHD-002",
+      "stock": 12,
+      "lowStockThreshold": 4,
+      "sizes": [
+        "Unstitched 7 Meters Suit + Shawl"
+      ],
+      "colors": [
+        "Natural Off-White",
+        "Wheat Khaki",
+        "Indigo Navy"
+      ],
+      "materials": "Organic Handspun Cotton & Mountain Wool",
+      "tags": [
+        "khaddar",
+        "handloom",
+        "shawl",
+        "winter",
+        "charsadda"
+      ],
+      "status": "published",
+      "isFeatured": true,
+      "isNewArrival": true,
+      "isBestSeller": true,
+      "isOnSale": true,
+      "seoTitle": "Charsadda Handloom Khaddar & Wool Shawl | Hashtnaghar Crafts",
+      "seoDescription": "Authentic pure handloom winter khaddar and woolen shawls direct from Charsadda weavers.",
+      "images": [
+        {
+          "url": "/uploads/product_charsadda_khaddar_1792123450996.jpg",
+          "alt": "Handloom Khaddar and Wool Shawl",
+          "isPrimary": true
+        }
+      ],
+      "createdAt": "2026-09-16T04:31:27.576Z",
+      "updatedAt": "2026-10-16T04:31:27.576Z"
+    },
+    {
+      "id": "prod_3",
+      "title": "Hashtnaghar Turquoise Glazed Terracotta Urn",
+      "slogan": "Hand-turned river clay with lead-free Gandharan mineral glaze",
+      "shortDescription": "Hand-thrown on traditional potter wheels using river clay from the Swat river basin, decorated with historic Gandhara-inspired motifs.",
+      "fullDescription": "Crafted in Charsadda clay kilns that trace back to ancient Pushkalavati. Hand-turned on foot-powered wheels, sun-dried for three days, decorated with iron and copper oxide glazes, and wood-fired at 1,000°C for exceptional strength.",
+      "category": "Handmade Crafts",
+      "subcategory": "Ceramics & Pottery",
+      "price": 4800,
+      "originalPrice": 5200,
+      "sku": "HC-POT-003",
+      "stock": 7,
+      "lowStockThreshold": 3,
+      "sizes": [
+        "Medium (12\" Height)",
+        "Large (16\" Height)"
+      ],
+      "colors": [
+        "Turquoise Blue",
+        "Terracotta Red"
+      ],
+      "materials": "Swat River Terracotta Clay, Mineral Glazes",
+      "tags": [
+        "pottery",
+        "ceramics",
+        "terracotta",
+        "craft",
+        "decor"
+      ],
+      "status": "published",
+      "isFeatured": true,
+      "isNewArrival": false,
+      "isBestSeller": false,
+      "isOnSale": false,
+      "seoTitle": "Hashtnaghar Glazed Pottery Urn | Hashtnaghar Crafts",
+      "seoDescription": "Handcrafted terracotta glazed ceramic pottery vessels with traditional hand-painted floral motifs.",
+      "images": [
+        {
+          "url": "/uploads/product_glazed_pottery_1792123450721.jpg",
+          "alt": "Glazed terracotta vessel",
+          "isPrimary": true
+        }
+      ],
+      "createdAt": "2026-09-26T04:31:27.576Z",
+      "updatedAt": "2026-10-16T04:31:27.576Z"
+    },
+    {
+      "id": "prod_4",
+      "title": "Charsadda Traditional Single-Sole Slim Chappal",
+      "slogan": "Lightweight everyday formal Peshawari footwear",
+      "shortDescription": "Supple cowhide leather with lightweight crepe sole, ideal for daily prayers, summer comfort, and festive wear.",
+      "fullDescription": "A streamlined variation of the classic Charsadda sandal tailored for lightweight everyday elegance. Hand-burnished edges, soft calfskin inner lining to prevent heel blisters, and durable single-layer vulcanized sole.",
+      "category": "Peshawari Chappals",
+      "subcategory": "Single Sole",
+      "price": 5200,
+      "originalPrice": 5800,
+      "sku": "HC-CHP-004",
+      "stock": 22,
+      "lowStockThreshold": 6,
+      "sizes": [
+        "7",
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "colors": [
+        "Mahogany Tan",
+        "Onyx Black"
+      ],
+      "materials": "Full-Grain Cowhide Leather, Vulcanized Sole",
+      "tags": [
+        "chappal",
+        "single sole",
+        "peshawari",
+        "footwear"
+      ],
+      "status": "published",
+      "isFeatured": false,
+      "isNewArrival": true,
+      "isBestSeller": false,
+      "isOnSale": true,
+      "seoTitle": "Charsadda Single Sole Chappal | Hashtnaghar Crafts",
+      "seoDescription": "Comfortable lightweight Charsadda Peshawari chappals in genuine leather.",
+      "images": [
+        {
+          "url": "/uploads/product_charsadda_chappal_1792123450304.jpg",
+          "alt": "Single-sole Charsadda chappal",
+          "isPrimary": true
+        }
+      ],
+      "createdAt": "2026-10-06T04:31:27.576Z",
+      "updatedAt": "2026-10-16T04:31:27.576Z"
+    }
+  ],
+  "categories": [
+    {
+      "id": "cat_1",
+      "name": "Peshawari Chappals",
+      "slug": "peshawari-chappals",
+      "description": "Legendary hand-stitched leather sandals from Charsadda",
+      "order": 1,
+      "isVisible": true
+    },
+    {
+      "id": "cat_2",
+      "name": "Leather Goods",
+      "slug": "leather-goods",
+      "description": "Full-grain buffalo wallets, belts, and accessories",
+      "order": 2,
+      "isVisible": true
+    },
+    {
+      "id": "cat_3",
+      "name": "Traditional Footwear",
+      "slug": "traditional-footwear",
+      "description": "Heritage Norozi, Shikarpuri, and Kaptaan chappals",
+      "order": 3,
+      "isVisible": true
+    },
+    {
+      "id": "cat_4",
+      "name": "Fabrics and Textiles",
+      "slug": "fabrics-and-textiles",
+      "description": "Pure handloom Charsadda khaddar and wool shawls",
+      "order": 4,
+      "isVisible": true
+    },
+    {
+      "id": "cat_5",
+      "name": "Handmade Crafts",
+      "slug": "handmade-crafts",
+      "description": "Terracotta pottery, brass engravings, and wood carvings",
+      "order": 5,
+      "isVisible": true
+    },
+    {
+      "id": "cat_6",
+      "name": "Accessories",
+      "slug": "accessories",
+      "description": "Handcrafted leather travel bags, belts, and slip cases",
+      "order": 6,
+      "isVisible": true
+    },
+    {
+      "id": "cat_7",
+      "name": "New Arrivals",
+      "slug": "new-arrivals",
+      "description": "Recently finished seasonal artisan pieces",
+      "order": 7,
+      "isVisible": true
+    },
+    {
+      "id": "cat_8",
+      "name": "Sale",
+      "slug": "sale",
+      "description": "Limited batch clearance and promotion pairs",
+      "order": 8,
+      "isVisible": true
+    }
+  ],
+  "orders": [
+    {
+      "id": "ord_1792125147290_hlzs",
+      "orderNumber": "HC-1005",
+      "customerName": "Zainab Durrani",
+      "customerEmail": "zainab.durrani@example.com",
+      "customerPhone": "03339876543",
+      "shippingAddress": {
+        "street": "House 42, University Town",
+        "city": "Peshawar",
+        "province": "KPK",
+        "postalCode": "25000"
+      },
+      "items": [
+        {
+          "productId": "prod_1",
+          "title": "Authentic Charsadda Double-Sole Leather Chappal",
+          "price": 6500,
+          "quantity": 1,
+          "selectedSize": "8",
+          "selectedColor": "Cognac Brown",
+          "image": "/uploads/product_charsadda_chappal_1792123450304.jpg"
+        }
+      ],
+      "subtotal": 6500,
+      "shippingFee": 300,
+      "discountAmount": 0,
+      "totalAmount": 6800,
+      "paymentMethod": "cod",
+      "paymentStatus": "unpaid",
+      "orderStatus": "pending",
+      "trackingNumber": "",
+      "internalNotes": "Order placed by customer through web checkout.",
+      "createdAt": "2026-10-16T04:32:27.290Z",
+      "updatedAt": "2026-10-16T04:32:27.290Z",
+      "statusHistory": [
+        {
+          "status": "pending",
+          "timestamp": "2026-10-16T04:32:27.290Z",
+          "note": "Order placed (Cash on Delivery). Total: PKR 6800"
+        }
+      ]
+    },
+    {
+      "id": "ord_1",
+      "orderNumber": "HC-1001",
+      "customerName": "Muhammad Salman Khan",
+      "customerEmail": "salman.khan@gmail.com",
+      "customerPhone": "03001234567",
+      "shippingAddress": {
+        "street": "House 42, Street 8, F-7/2",
+        "city": "Islamabad",
+        "province": "Federal Capital",
+        "postalCode": "44000"
+      },
+      "items": [
+        {
+          "productId": "prod_1",
+          "title": "Authentic Charsadda Double-Sole Leather Chappal",
+          "price": 6500,
+          "quantity": 2,
+          "selectedSize": "9",
+          "selectedColor": "Cognac Brown",
+          "image": "/uploads/product_charsadda_chappal_1792123450304.jpg"
+        }
+      ],
+      "subtotal": 13000,
+      "shippingFee": 0,
+      "discountAmount": 0,
+      "totalAmount": 13000,
+      "paymentMethod": "cod",
+      "paymentStatus": "paid",
+      "orderStatus": "delivered",
+      "trackingNumber": "TCS-992144882",
+      "internalNotes": "Customer confirmed size 9 wide fit. Delivered via TCS express.",
+      "createdAt": "2026-10-02T04:31:27.576Z",
+      "updatedAt": "2026-10-05T04:31:27.576Z",
+      "statusHistory": [
+        {
+          "status": "pending",
+          "timestamp": "2026-10-02T04:31:27.576Z",
+          "note": "Order placed by customer via Cash on Delivery"
+        },
+        {
+          "status": "confirmed",
+          "timestamp": "2026-10-03T04:31:27.576Z",
+          "note": "Confirmed on WhatsApp with customer"
+        },
+        {
+          "status": "shipped",
+          "timestamp": "2026-10-04T04:31:27.576Z",
+          "note": "Dispatched via TCS Charsadda hub"
+        },
+        {
+          "status": "delivered",
+          "timestamp": "2026-10-05T04:31:27.576Z",
+          "note": "Delivered & COD funds collected"
+        }
+      ]
+    },
+    {
+      "id": "ord_2",
+      "orderNumber": "HC-1002",
+      "customerName": "Shahab Uddin Khattak",
+      "customerEmail": "shahab.khattak@yahoo.com",
+      "customerPhone": "03339123456",
+      "shippingAddress": {
+        "street": "Gulbahar Colony #2, Near Ring Road",
+        "city": "Peshawar",
+        "province": "Khyber Pakhtunkhwa",
+        "postalCode": "25000"
+      },
+      "items": [
+        {
+          "productId": "prod_2",
+          "title": "Hashtnaghar Handloom Khaddar & Wool Shawl Set",
+          "price": 8200,
+          "quantity": 1,
+          "selectedColor": "Natural Off-White",
+          "image": "/uploads/product_charsadda_khaddar_1792123450996.jpg"
+        }
+      ],
+      "subtotal": 8200,
+      "shippingFee": 300,
+      "discountAmount": 0,
+      "totalAmount": 8500,
+      "paymentMethod": "cod",
+      "paymentStatus": "paid",
+      "orderStatus": "delivered",
+      "trackingNumber": "LEO-7721893",
+      "internalNotes": "Same province priority delivery.",
+      "createdAt": "2026-10-09T04:31:27.576Z",
+      "updatedAt": "2026-10-11T04:31:27.576Z",
+      "statusHistory": [
+        {
+          "status": "pending",
+          "timestamp": "2026-10-09T04:31:27.576Z",
+          "note": "Placed online"
+        },
+        {
+          "status": "shipped",
+          "timestamp": "2026-10-10T04:31:27.576Z",
+          "note": "Dispatched with Leopard Courier"
+        },
+        {
+          "status": "delivered",
+          "timestamp": "2026-10-11T04:31:27.576Z",
+          "note": "Delivered successfully"
+        }
+      ]
+    },
+    {
+      "id": "ord_3",
+      "orderNumber": "HC-1003",
+      "customerName": "Zainab Fatima Tariq",
+      "customerEmail": "zainab.tariq@gmail.com",
+      "customerPhone": "03218889900",
+      "shippingAddress": {
+        "street": "Phase 5, DHA, Bedian Road",
+        "city": "Lahore",
+        "province": "Punjab",
+        "postalCode": "54792"
+      },
+      "items": [
+        {
+          "productId": "prod_3",
+          "title": "Hashtnaghar Turquoise Glazed Terracotta Urn",
+          "price": 4800,
+          "quantity": 1,
+          "image": "/uploads/product_glazed_pottery_1792123450721.jpg"
+        },
+        {
+          "productId": "prod_1",
+          "title": "Authentic Charsadda Double-Sole Leather Chappal",
+          "price": 6500,
+          "quantity": 1,
+          "selectedSize": "8",
+          "selectedColor": "Dark Mustard",
+          "image": "/uploads/product_charsadda_chappal_1792123450304.jpg"
+        }
+      ],
+      "subtotal": 11300,
+      "shippingFee": 0,
+      "discountAmount": 500,
+      "totalAmount": 10800,
+      "paymentMethod": "bank_transfer",
+      "paymentStatus": "paid",
+      "orderStatus": "processing",
+      "trackingNumber": "",
+      "internalNotes": "Terracotta vessel needs triple bubble wrap and wooden safety crate.",
+      "createdAt": "2026-10-14T04:31:27.576Z",
+      "updatedAt": "2026-10-15T04:31:27.577Z",
+      "statusHistory": [
+        {
+          "status": "pending",
+          "timestamp": "2026-10-14T04:31:27.577Z",
+          "note": "Order placed, awaiting bank slip"
+        },
+        {
+          "status": "confirmed",
+          "timestamp": "2026-10-14T16:31:27.577Z",
+          "note": "Bank transfer verified in Meezan Bank account"
+        },
+        {
+          "status": "processing",
+          "timestamp": "2026-10-15T04:31:27.577Z",
+          "note": "Fragile packing in progress at workshop"
+        }
+      ]
+    },
+    {
+      "id": "ord_4",
+      "orderNumber": "HC-1004",
+      "customerName": "Arshad Mehmood Qureshi",
+      "customerEmail": "arshad.m.q@hotmail.com",
+      "customerPhone": "03456789012",
+      "shippingAddress": {
+        "street": "Block 4, Clifton",
+        "city": "Karachi",
+        "province": "Sindh",
+        "postalCode": "75600"
+      },
+      "items": [
+        {
+          "productId": "prod_1",
+          "title": "Authentic Charsadda Double-Sole Leather Chappal",
+          "price": 6500,
+          "quantity": 1,
+          "selectedSize": "10",
+          "selectedColor": "Jet Black",
+          "image": "/uploads/product_charsadda_chappal_1792123450304.jpg"
+        }
+      ],
+      "subtotal": 6500,
+      "shippingFee": 300,
+      "discountAmount": 0,
+      "totalAmount": 6800,
+      "paymentMethod": "cod",
+      "paymentStatus": "unpaid",
+      "orderStatus": "pending",
+      "trackingNumber": "",
+      "internalNotes": "New order waiting for phone or WhatsApp confirmation.",
+      "createdAt": "2026-10-16T00:31:27.577Z",
+      "updatedAt": "2026-10-16T00:31:27.577Z",
+      "statusHistory": [
+        {
+          "status": "pending",
+          "timestamp": "2026-10-16T00:31:27.577Z",
+          "note": "Order placed via storefront Cash on Delivery checkout"
+        }
+      ]
+    }
+  ],
+  "customers": [
+    {
+      "id": "cust_1",
+      "name": "Muhammad Salman Khan",
+      "email": "salman.khan@gmail.com",
+      "phone": "03001234567",
+      "city": "Islamabad",
+      "totalOrders": 1,
+      "totalSpent": 13000,
+      "firstOrderDate": "2026-10-02T04:31:27.577Z",
+      "lastOrderDate": "2026-10-02T04:31:27.577Z"
+    },
+    {
+      "id": "cust_2",
+      "name": "Shahab Uddin Khattak",
+      "email": "shahab.khattak@yahoo.com",
+      "phone": "03339123456",
+      "city": "Peshawar",
+      "totalOrders": 1,
+      "totalSpent": 8500,
+      "firstOrderDate": "2026-10-09T04:31:27.577Z",
+      "lastOrderDate": "2026-10-09T04:31:27.577Z"
+    },
+    {
+      "id": "cust_3",
+      "name": "Zainab Fatima Tariq",
+      "email": "zainab.tariq@gmail.com",
+      "phone": "03218889900",
+      "city": "Lahore",
+      "totalOrders": 1,
+      "totalSpent": 10800,
+      "firstOrderDate": "2026-10-14T04:31:27.577Z",
+      "lastOrderDate": "2026-10-14T04:31:27.577Z"
+    },
+    {
+      "id": "cust_4",
+      "name": "Arshad Mehmood Qureshi",
+      "email": "arshad.m.q@hotmail.com",
+      "phone": "03456789012",
+      "city": "Karachi",
+      "totalOrders": 1,
+      "totalSpent": 6800,
+      "firstOrderDate": "2026-10-16T00:31:27.577Z",
+      "lastOrderDate": "2026-10-16T00:31:27.577Z"
+    },
+    {
+      "id": "cust_1792125147290",
+      "name": "Zainab Durrani",
+      "email": "zainab.durrani@example.com",
+      "phone": "03339876543",
+      "city": "Peshawar",
+      "totalOrders": 1,
+      "totalSpent": 6800,
+      "firstOrderDate": "2026-10-16T04:32:27.290Z",
+      "lastOrderDate": "2026-10-16T04:32:27.290Z"
+    }
+  ],
+  "media": [
+    {
+      "id": "med_hero",
+      "filename": "hero_hashtnaghar_crafts_1792123449961.jpg",
+      "originalName": "hero_hashtnaghar_crafts.jpg",
+      "url": "/uploads/hero_hashtnaghar_crafts_1792123449961.jpg",
+      "mimeType": "image/jpeg",
+      "size": 934771,
+      "uploadedAt": "2026-10-06T04:31:27.577Z",
+      "alt": "Hashtnaghar Crafts Workshop Master Hero Display"
+    },
+    {
+      "id": "med_chappal",
+      "filename": "product_charsadda_chappal_1792123450304.jpg",
+      "originalName": "product_charsadda_chappal.jpg",
+      "url": "/uploads/product_charsadda_chappal_1792123450304.jpg",
+      "mimeType": "image/jpeg",
+      "size": 887132,
+      "uploadedAt": "2026-10-06T04:31:27.577Z",
+      "alt": "Authentic Charsadda Double Sole Leather Sandal"
+    },
+    {
+      "id": "med_khaddar",
+      "filename": "product_charsadda_khaddar_1792123450996.jpg",
+      "originalName": "product_charsadda_khaddar.jpg",
+      "url": "/uploads/product_charsadda_khaddar_1792123450996.jpg",
+      "mimeType": "image/jpeg",
+      "size": 938680,
+      "uploadedAt": "2026-10-06T04:31:27.577Z",
+      "alt": "Handloom Khaddar and Wool Shawl"
+    },
+    {
+      "id": "med_pottery",
+      "filename": "product_glazed_pottery_1792123450721.jpg",
+      "originalName": "product_glazed_pottery.jpg",
+      "url": "/uploads/product_glazed_pottery_1792123450721.jpg",
+      "mimeType": "image/jpeg",
+      "size": 835711,
+      "uploadedAt": "2026-10-06T04:31:27.577Z",
+      "alt": "Glazed Terracotta Urn Handcrafted in Charsadda"
+    }
+  ],
+  "manualAdjustments": [
+    {
+      "id": "adj_1",
+      "amount": 45000,
+      "type": "income",
+      "date": "2026-10-08",
+      "category": "Workshop Direct Walk-in Sale",
+      "description": "Cash sale to visiting cultural delegation from Islamabad at Charsadda bazaar workshop (6 custom chappal pairs).",
+      "referenceNumber": "DIR-W-2026-08",
+      "administrator": "hashtnagarcrafts@gmail.com",
+      "createdAt": "2026-10-08T04:31:27.577Z"
+    },
+    {
+      "id": "adj_2",
+      "amount": 18500,
+      "type": "deduction",
+      "date": "2026-10-04",
+      "category": "Raw Leather Material Cost",
+      "description": "Purchase of 4 premium tanned buff hides from Nowshera leather tanneries.",
+      "referenceNumber": "PO-TAN-441",
+      "administrator": "hashtnagarcrafts@gmail.com",
+      "createdAt": "2026-10-04T04:31:27.577Z"
+    }
+  ],
+  "auditLogs": [
+    {
+      "id": "log_1792125329432_sb94",
+      "action": "ADMIN_LOGIN_SUCCESS",
+      "details": "Admin logged in from 127.0.0.1",
+      "adminEmail": "hashtnagarcrafts@gmail.com",
+      "timestamp": "2026-10-16T04:35:29.432Z"
+    },
+    {
+      "id": "log_1792125287881_r5m3",
+      "action": "ADMIN_LOGIN_FAILED",
+      "details": "Failed password attempt for hashtnagarcrafts@gmail.com",
+      "adminEmail": "hashtnagarcrafts@gmail.com",
+      "timestamp": "2026-10-16T04:34:47.881Z"
+    },
+    {
+      "id": "log_1792125250567_lh3c",
+      "action": "ADMIN_LOGIN_FAILED",
+      "details": "Failed password attempt for hashtnagarcrafts@gmail.com",
+      "adminEmail": "hashtnagarcrafts@gmail.com",
+      "timestamp": "2026-10-16T04:34:10.567Z"
+    },
+    {
+      "id": "log_1792125239975_b3dw",
+      "action": "ADMIN_LOGIN_FAILED",
+      "details": "Failed password attempt for hashtnagarcrafts@gmail.com",
+      "adminEmail": "hashtnagarcrafts@gmail.com",
+      "timestamp": "2026-10-16T04:33:59.975Z"
+    },
+    {
+      "id": "log_1792125169951_lru3",
+      "action": "ADMIN_LOGIN_SUCCESS",
+      "details": "Admin logged in from 127.0.0.1",
+      "adminEmail": "hashtnagarcrafts@gmail.com",
+      "timestamp": "2026-10-16T04:32:49.951Z"
+    },
+    {
+      "id": "log_1792125166675_qy0n",
+      "action": "PASSWORD_RESET_CONFIRM",
+      "details": "Administrator password reset via token.",
+      "adminEmail": "hashtnagarcrafts@gmail.com",
+      "timestamp": "2026-10-16T04:32:46.675Z"
+    },
+    {
+      "id": "log_1792125163065_is9i",
+      "action": "PASSWORD_RESET_REQUEST",
+      "details": "Password reset token generated.",
+      "adminEmail": "hashtnagarcrafts@gmail.com",
+      "timestamp": "2026-10-16T04:32:43.065Z"
+    },
+    {
+      "id": "log_1792125147290_qcyb",
+      "action": "ORDER_CREATED",
+      "details": "New customer order HC-1005 placed for PKR 6800",
+      "adminEmail": "storefront",
+      "timestamp": "2026-10-16T04:32:27.290Z",
+      "metadata": {
+        "orderNumber": "HC-1005",
+        "customer": "Zainab Durrani"
+      }
+    },
+    {
+      "id": "log_1792125139198_p8fo",
+      "action": "WEBSITE_CONTENT_PUBLISH",
+      "details": "Updated and published storefront homepage content & sections.",
+      "adminEmail": "hashtnagarcrafts@gmail.com",
+      "timestamp": "2026-10-16T04:32:19.198Z"
+    },
+    {
+      "id": "log_1792125129389_gy0u",
+      "action": "ADMIN_INITIAL_SETUP",
+      "details": "Initial administrator account setup completed.",
+      "adminEmail": "hashtnagarcrafts@gmail.com",
+      "timestamp": "2026-10-16T04:32:09.389Z"
+    },
+    {
+      "id": "log_1792125096483_6o83",
+      "action": "ADMIN_LOGIN_FAILED",
+      "details": "Failed password attempt for hashtnagarcrafts@gmail.com",
+      "adminEmail": "hashtnagarcrafts@gmail.com",
+      "timestamp": "2026-10-16T04:31:36.483Z"
+    },
+    {
+      "id": "log_init",
+      "action": "SYSTEM_BOOT",
+      "details": "Hashtnaghar Crafts e-commerce backend and persistent database mounted.",
+      "adminEmail": "hashtnagarcrafts@gmail.com",
+      "timestamp": "2026-10-16T04:31:27.577Z"
+    }
+  ],
+  "checkoutSettings": {
+    "codEnabled": true,
+    "bankTransferEnabled": true,
+    "bankDetails": {
+      "bankName": "Meezan Bank Limited (Charsadda Branch)",
+      "accountTitle": "Hashtnaghar Crafts Artisans Guild",
+      "accountNumber": "02890104882910",
+      "iban": "PK55MEZN0002890104882910",
+      "instructions": "Please transfer the exact total amount and WhatsApp screenshot proof of payment along with your order number to 03709956956."
+    },
+    "onlinePaymentsEnabled": false,
+    "onlinePaymentProvider": "none",
+    "onlinePaymentNotes": "Online credit card and debit card gateway requires merchant onboarding with PayFast, JazzCash, or Stripe. Cash on Delivery and Direct Bank Transfer are currently active and processing orders.",
+    "shippingFee": 300,
+    "freeShippingThreshold": 10000
+  },
+  "whatsAppSettings": {
+    "enabled": true,
+    "phoneNumber": "03709956956",
+    "countryCode": "+92",
+    "defaultMessage": "Hello Hashtnaghar Crafts! I would like to place an order or inquire about your handmade crafts.",
+    "productMessageTemplate": "Hello Hashtnaghar Crafts! I am interested in ordering: \"{productTitle}\" (PKR {productPrice}). Please confirm availability and sizing options.",
+    "orderConfirmationTemplate": "Hello Hashtnaghar Crafts! I have placed Order #{orderNumber} for PKR {orderTotal}. Please confirm my shipment."
+  },
+  "inquiries": [
+    {
+      "id": "inq_1",
+      "name": "Tariq Mehmood",
+      "email": "tariq.m@example.com",
+      "phone": "03001234567",
+      "subject": "Custom Sizing for Charsadda Chappal",
+      "message": "Greetings! I wear UK size 10 wide fit. Can you stitch a custom double-sole Peshawari chappal with brown buffalo leather?",
+      "createdAt": "2026-10-15T23:09:48.807Z",
+      "status": "new"
+    },
+    {
+      "id": "inq_2",
+      "name": "Dr. Ayesha Khan",
+      "email": "ayesha.khan@example.com",
+      "phone": "03339876543",
+      "subject": "Bulk Charsadda Khaddar Order for Winter",
+      "message": "Hello, looking to order 12 pure handloom khaddar fabric suits for corporate gifting. What are the wholesale lead times?",
+      "createdAt": "2026-10-15T04:09:48.807Z",
+      "status": "read"
+    }
+  ],
+  "sessions": {
+    "c2c139d00455d951b9fa6863ef30a010751efe9474421e3f12e63d0fba73e894": {
+      "email": "hashtnagarcrafts@gmail.com",
+      "expiresAt": 1792211569951
+    },
+    "8d27753d89687a5c55b8858fe91f1b06d977dd3e6026e953be1c0c661cd95063": {
+      "email": "hashtnagarcrafts@gmail.com",
+      "expiresAt": 1792211729432
+    }
+  },
+  "resetTokens": {}
+}
